@@ -1,0 +1,27 @@
+# Introduction {.unnumbered}
+
+Welcome to the course "How to Make Use of Machine Learning & Microsimulations in
+Official Statistics"!
+
+## Course format
+This is a 4-week online course using a flipped classroom design. In this course,
+you are responsible for watching video-recorded lectures reading the required 
+literature for each unit prior to participating in mandatory weekly one-hour 
+online meetings where you have the chance to discuss the materials from a unit 
+with the instructor. Just like in an on-site course, homework will be assigned 
+and graded.
+
+The videos and literature of the corresponding unit will be unlocked at least 
+one week before the weekly meeting.
+
+Basic R knowledge is required. Having some familiarity with the official 
+statistics system as taught in Walter Radermacher’s course “Statistics for the 
+Public Good” can be helpful.
+
+Schedule of the weekly online meetings:
+Unit 1: Monday, November 14, 2022, 02:15PM - 03:15PM
+Unit 2: Monday, November 21, 2022, 02:15PM - 03:15PM
+Unit 3: Monday, November 28, 2022, 02:15PM - 03:15PM
+Unit 4: Monday, December 05, 2022, 02:15PM - 03:15PM
+
+Please revise the Syllabus for more detailed information.
