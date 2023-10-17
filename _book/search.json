@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Berd course booklet: Microsimulation & Machine Learning with Official Statistics Data",
+    "section": "",
+    "text": "Welcome to the course “Microsimulation & Machine Learning with Official Statistics Data”!\n\n\nThis is an online course. Each week you will…\n\nwatch the weekly videos (~60 min),\nreview the assigned readings,\nwork on the (R) assignments,\ndiscuss the material in the weekly online meeting with the instructors from destatis and Statistics Netherlands, and fellow course participants (~60 min).\n\nThe videos and literature of the corresponding unit will be unlocked at least one week before the weekly meeting.\nBasic R knowledge is required. Having some familiarity with the official statistics system as taught in Walter Radermacher’s course “Statistics for the Public Good” can be helpful.\nOnline Meetings\n\nThursday, November 02, 2023, 05:00 PM – 06:00 PM CET\nThursday, November 09, 2023, 05:00 PM – 06:00 PM CET\nThursday, November 16, 2023: NO MEETING\nThursday, November 23, 2023, 05:00 PM – 06:00 PM CET\nThursday, November 30, 2023, 05:00 PM – 06:00 PM CET\n\nPlease revise the Syllabus for more detailed information."
+  },
+  {
+    "objectID": "Unit1-readings.html",
+    "href": "Unit1-readings.html",
+    "title": "3  Readings",
+    "section": "",
+    "text": "Recommended (optional):\n\nLi and O’Donoghue (2013) A survey of dynamic microsimulation models: uses, model structure and methodology. International Journal of Microsimulation 6(2), pp. 3-55. Available at: https://www.microsimulation.org/IJM/V6_2/2_IJM_6_2_2013_Li_Odonoghue.pdf\nRahman and Harding (2017) Small area estimation and microsimulation modelling. Chapman and Hall/CRC, London, UK, Chapter 4.\nMerz (1991) Microsimulation - a survey of principles, developments and applications. International Journal of Forecasting, 7(1), pp. 77-104. Available at: https://mpra.ub.uni-muenchen.de/7232/"
+  },
+  {
+    "objectID": "Unit1-meeting.html",
+    "href": "Unit1-meeting.html",
+    "title": "5  Meeting",
+    "section": "",
+    "text": "Please find the information on how to join the zoom meeting in the corresponding e-mail."
+  }
+]
