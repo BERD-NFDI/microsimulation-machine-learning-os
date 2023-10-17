@@ -11,28 +11,28 @@ book:
     - Unit1-videos.qmd
     - Unit1-slides.qmd
     - Unit1-readings.qmd
-    - Unit1-assignments.qmd
+    - Unit1-assignment.qmd
     - Unit1-meeting.qmd
   - part: Unit2.qmd
     chapters: 
     - Unit2-videos.qmd
     - Unit2-slides.qmd
     - Unit2-readings.qmd
-    - Unit2-assignments.qmd
+    - Unit2-assignment.qmd
     - Unit2-meeting.qmd
   - part: Unit3.qmd
     chapters: 
     - Unit3-videos.qmd
     - Unit3-slides.qmd
     - Unit3-readings.qmd
-    - Unit3-assignments.qmd
+    - Unit3-assignment.qmd
     - Unit3-meeting.qmd
   - part: Unit4.qmd
     chapters:
     - Unit4-videos.qmd
     - Unit4-slides.qmd
     - Unit4-readings.qmd
-    - Unit4-assignments.qmd
+    - Unit4-assignment.qmd
     - Unit4-meeting.qmd
   
   
