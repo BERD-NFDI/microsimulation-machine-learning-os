@@ -38,7 +38,7 @@ book:
   
   navbar: 
     background: white
-    logo: images/Logo_BERD_Academy.png
+#    logo: images/Logo_BERD_Academy.png
     
 # we can add this 
 #  page-footer:
