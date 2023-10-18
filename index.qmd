@@ -1,3 +1,5 @@
+![](Logo_BERD_Academy(1).png){width=60% fig-align="center" fig-alt="https://www.berd-nfdi.de/berd-academy/"}
+
 # Introduction {.unnumbered}
 
 Welcome to the course "Microsimulation & Machine Learning with Official 
