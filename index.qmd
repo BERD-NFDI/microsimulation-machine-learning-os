@@ -1,34 +1,28 @@
-![](Logo_BERD_Academy(1).png){width=60% fig-align="center" fig-alt="https://www.berd-nfdi.de/berd-academy/"}
+![](Logo_BERD_Academy(1).png){width="60%" fig-align="center" fig-alt="https://www.berd-nfdi.de/berd-academy/"}
 
 # Introduction {.unnumbered}
 
-Welcome to the course "Microsimulation & Machine Learning with Official 
-Statistics Data"!
+Welcome to the course "Microsimulation & Machine Learning with Official Statistics Data"!
 
 ## Course format
 
 This is an online course. Each week you will...
 
-* watch the weekly videos (~60 min),
-* review the assigned readings,
-* work on the (R) assignments,
-* discuss the material in the weekly online meeting with the instructors from 
-destatis and Statistics Netherlands, and fellow course participants (~60 min).
+-   watch the weekly videos (\~60 min),
+-   review the assigned readings,
+-   work on the (R) assignments,
+-   discuss the material in the weekly online meeting with the instructors from destatis and Statistics Netherlands, and fellow course participants (\~60 min).
 
+The videos and literature of the corresponding unit will be unlocked at least one week before the weekly meeting.
 
-The videos and literature of the corresponding unit will be unlocked at least 
-one week before the weekly meeting.
-
-Basic R knowledge is required. Having some familiarity with the official 
-statistics system as taught in Walter Radermacher’s course “Statistics for the 
-Public Good” can be helpful.
+Basic R knowledge is required. Having some familiarity with the official statistics system as taught in Walter Radermacher's course "Statistics for the Public Good" can be helpful.
 
 Online Meetings
 
-* Thursday, November 02, 2023, 05:00 PM – 06:00 PM CET
-* Thursday, November 09, 2023, 05:00 PM – 06:00 PM CET
-* Thursday, November 16, 2023: NO MEETING
-* Thursday, November 23, 2023, 05:00 PM – 06:00 PM CET
-* Thursday, November 30, 2023, 05:00 PM – 06:00 PM CET
+-   Thursday, November 02, 2023, 05:00 PM -- 06:00 PM CET
+-   Thursday, November 09, 2023, 05:00 PM -- 06:00 PM CET
+-   Thursday, November 16, 2023: NO MEETING
+-   Thursday, November 23, 2023, 05:00 PM -- 06:00 PM CET
+-   Thursday, November 30, 2023, 05:00 PM -- 06:00 PM CET
 
 Please revise the Syllabus for more detailed information.
