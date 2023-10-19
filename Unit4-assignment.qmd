@@ -1,1 +1,8 @@
-## Assignment
+## U4 Assignment {.unnumbered}
+
+This Assignment is a joint assignment for Unit 3 AND Unit 4.
+
+Please download the assignment for Unit 3+4 here: *insert*
+
+Complete it by including your answers in the code and sending the completed .R-File by *insert* to all of the following three e-mail-adresses: 
+pjh.daas@cbs.nl; m.puts@cbs.nl; berd-academy@stat.uni-muenchen.de

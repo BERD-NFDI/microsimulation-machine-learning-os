@@ -1,4 +1,7 @@
-![](Logo_BERD_Academy(1).png){width="60%" fig-align="center" fig-alt="https://www.berd-nfdi.de/berd-academy/"}
+Instructors: 
+Hanna Brenzel, Hariolf Merkle, Marco Puts, and Piet Daas
+
+![](images/Logo_BERD_Academy(1).png)
 
 # Introduction {.unnumbered}
 

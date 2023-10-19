@@ -3,10 +3,9 @@ project:
   
 book: 
   title: "Berd course booklet: Microsimulation & Machine Learning with Official Statistics Data" 
-  author: "?"
   chapters: 
   - part: index.qmd
-    chapters:
+    chapters: 
     - index.qmd
   - part: Unit1.qmd 
     chapters: 
@@ -40,6 +39,7 @@ book:
   
   navbar: 
     background: white
+    logo: images/Logo_BERD_Academy(1).png
 #    logo: images/Logo_BERD_Academy.png
     
 # we can add this 

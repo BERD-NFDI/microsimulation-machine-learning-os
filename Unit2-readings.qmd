@@ -1,1 +1,11 @@
-## Readings
+## U2 Readings {.unnumbered}
+
+-   Dekkers, G. (2015). The simulation properties of microsimulation models with static and dynamic ageing--a brief guide into choosing one type of model over the other. International Journal of Microsimulation, 8(1), 97-109. Available at: <https://microsimulation.pub/articles/00113>
+
+-   O'Donoghue, C., & Loughrey, J. (2014). Nowcasting in microsimulation models: a methodological survey. Journal of Artificial Societies and Social Simulation, 17(4), 12. Available at: <https://www.jasss.org/17/4/12/12.pdf>
+
+**Recommended (optional):**
+
+-   Lovelace, R., Dumont, M., Ellison, R., & Založnik, M. (2017). Spatial microsimulation with R. Chapman and Hall/CRC. Available at: <https://spatial-microsim-book.robinlovelace.net/index.html>
+
+-   Tanton, R. (2014). A review of spatial microsimulation methods. International Journal of Microsimulation, 7(1), 4-25. Available at: <https://microsimulation.pub/articles/00092>

@@ -1,1 +1,14 @@
-## Readings
+## U3 Readings {.unnumbered}
+
+- Daas, P.J.H., Puts, M.J.H. (2014) Big Data as a Source of Statistical Information. The Survey Statistician 69, 22-31. Available at: <http://isi-iass.org/home/wp-content/uploads/N69-2014-01-ISSN.pdf>
+
+- Ginsberg et al. (2009) Detecting influenza epidemics using search engine query data. Nature 457, 1012-1014. Available at: <https://www.nature.com/articles/nature07634.pdf>
+
+- Lazer et al. (2014) The Parable of Google Flu: Traps in Big Data Analysis. Science 343(6176), 1203-1205. Available at: <https://gking.harvard.edu/files/gking/files/0314policyforumff.pdf> 
+
+
+**Recommended (optional):**
+
+- Daas et al. (2015) Big Data and Official Statistics. Journal of Official Statistics 31(2), 249-262. Available at: <https://content.sciendo.com/downloadpdf/journals/jos/31/2/articlep249.xml> 
+
+- Kitchen, R. (2014) Big Data, new epistemologies and paradigm shifts. Big Data & Society, April-June, 1-12. Available at: <https://journals.sagepub.com/doi/pdf/10.1177/2053951714528481>

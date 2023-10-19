@@ -1,1 +1,7 @@
-## Readings
+## U4 Readings {.unnumbered}
+
+- Puts, M.J.H., Daas, P.J.H. (2021) Machine Learning from the Perspective of Official Statistics. The Survey Statistician 84. pp. 12-17. Available at: <http://isi-iass.org/home/wp-content/uploads/Survey_Statistician_2021_July_N84_02.pdf>
+
+**Recommended (optional):**
+
+- Puts et al. (2015) Finding Errors in Big Data. Significance 12 (3), 26-29. Available at: <https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2015.00826.x>
