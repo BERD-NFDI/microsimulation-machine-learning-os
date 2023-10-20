@@ -25,7 +25,7 @@
     "href": "Unit1-videos.html",
     "title": "U1 Videos",
     "section": "",
-    "text": "2 History of Microsimulation\n\n3 Development of Microsimulation in Germany\n\n4 Static and dynamic microsimulations\n\n5 Microsimulation as a policy tool"
+    "text": "2 History of Microsimulation\n\n\n3 Development of Microsimulation in Germany\n\n\n4 Static and dynamic microsimulations\n\n\n5 Microsimulation as a policy tool"
   },
   {
     "objectID": "Unit1-slides.html",
@@ -54,6 +54,13 @@
     "title": "U1 Meeting",
     "section": "",
     "text": "Please find the information on how to join the zoom meeting in the corresponding e-mail."
+  },
+  {
+    "objectID": "Unit2-videos.html",
+    "href": "Unit2-videos.html",
+    "title": "U2 Videos",
+    "section": "",
+    "text": "2 Hands-on microsimulation techniques: Overview\n\n\n3 Static Ageing Techniques in a Nutshell\n\n\n4 Dynamic Ageing in a nutshell\n\n\n5 Microsimulation in R (Excercise 1, Static Ageing)\n\n\n6 Microsimulation in R (Excercise 2, Static Ageing)\n\n\n7 Microsimulation in R (Excercise 3, Static Ageing)\n\n\n8 Microsimulation in R (Excercise 1, Dynamic Microsimulation)\n\n\n9 MikroSim revisted"
   },
   {
     "objectID": "Unit2-slides.html",
