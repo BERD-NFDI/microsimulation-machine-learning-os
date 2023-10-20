@@ -8,4 +8,4 @@
 
 -   Rahman and Harding (2017) Small area estimation and microsimulation modelling. Chapman and Hall/CRC, London, UK, Chapter 4.
 
--   Merz (1991) Microsimulation - a survey of principles, developments and applications. International Journal of Forecasting, 7(1), pp. 77-104. Available at: <https://mpra.ub.uni-muenchen.de/7232/>
+-   Merz (1991) Microsimulation - a survey of principles, developments and applications. International Journal of Forecasting, 7(1), pp. 77-104. Available at: <https://mpra.ub.uni-muenchen.de/7232/> 
