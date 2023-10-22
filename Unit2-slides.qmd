@@ -1,3 +1,3 @@
 ## U2 Slides {.unnumbered}
 
-Please find the slides for Unit 2 here: 
+Please find the slides for Unit 2 [here](https://github.com/BERD-NFDI/microsimulation-machine-learning-os/tree/main/Slides)

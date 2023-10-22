@@ -1,13 +1,13 @@
-## U4 Assignment {.unnumbered}
+## U2 Assignment {.unnumbered}
 
-Please download the assignment for unit 3 and 4 here: *insert*
+Please download the assignment for unit 1 and 2 [here](https://github.com/BERD-NFDI/microsimulation-machine-learning-os/blob/main/Assignments/U1-2_Microsimulation/u1-2_ms_assignment.docx "Unit1-2 Assignment").
 
-The assignment for Unit 3 and 4 is a common practice sheet. The first part consists of a small quiz on the theory part taught in Unit 1. The second part of the assignment deals with practical application examples as shown in the teaching videos of Unit 2.
+The assignment for **Unit 1 and 2 is a joint practice sheet**. The first part consists of a small quiz on the theory part taught in Unit 1. The second part of the assignment deals with practical application examples as shown in the teaching videos of Unit 2.
 
-Please review the entire assignment before the meeting on *insert*, to discuss any questions that may arise.
+Please **review the entire assignment** before the meeting on **Thursday, November 02**, to discuss any questions that may arise.
 
-Please work on the assignment after the meeting on *insert*, so that we can discuss the R exercises in the meeting on *insert*.
+Please **work on the assignment** after the meeting on Thursday, November 02, so that we can discuss the R exercises in the meeting on **Thursday, November 09**.
 
-Complete it by including your answers in the document and sending the completed document by *insert* to all of the following three e-mail-addresses:
+Complete it by including your answers in the document and **sending** the completed document **by *Tuesday, November 14*** to all of the following three e-mail-addresses:
 
-hb@hanna-brenzel.de; hariolf.merkle@gmail.com; berd-academy@stat.uni-muenchen.de
+hb\@hanna-brenzel.de; hariolf.merkle\@gmail.com; berd-academy\@stat.uni-muenchen.de

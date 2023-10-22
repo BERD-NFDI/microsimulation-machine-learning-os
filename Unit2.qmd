@@ -1,1 +1,13 @@
 ## Unit 2
+
+In this unit, you will apply Microsimulation using R.
+
+Please:
+
+📺 watch the **weekly videos** (\~60 min),
+
+📖 review the assigned **readings**,
+
+❓ work on the (R) **assignments**,
+
+👩‍🏫 discuss the material in the **weekly online meeting** with the instructors from destatis and Statistics Netherlands, and fellow course participants (\~60 min).

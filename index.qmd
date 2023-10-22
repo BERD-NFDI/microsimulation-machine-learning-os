@@ -10,7 +10,7 @@ Welcome to the course "Microsimulation & Machine Learning with Official Statisti
 
 This is an online course. **Each week** you will...
 
-📺 watch the **weekly video**s (\~60 min),
+📺 watch the **weekly videos** (\~60 min),
 
 📖 review the assigned **readings**,
 
