@@ -1,13 +1,15 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 
-<meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.353">
+<head>
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta charset="utf-8" />
+<meta name="generator" content="quarto-1.3.353" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
 
 
-<title>Microsimulation &amp; Machine Learning with Official Statistics Data - U1 Assignment</title>
+<title>Microsimulation & Machine Learning with Official Statistics Data – U2 Slides</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,25 +24,7 @@ ul.task-list li input[type="checkbox"] {
 }
 </style>
 
-
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./Unit1-meeting.html" rel="next">
-<link href="./Unit1-readings.html" rel="prev">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<!-- htmldependencies:E3FAD763 -->
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -64,17 +48,17 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar floating nav-fixed">
+<body>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/Logo_BERD_Academy(1).png" alt="" class="navbar-logo">
+    <a href="/index.html" class="navbar-brand navbar-brand-logo">
+    <img src="/images/Logo_BERD_Academy(1).png" alt="" class="navbar-logo" />
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="/index.html">
     <span class="navbar-title">Microsimulation &amp; Machine Learning with Official Statistics Data</span>
     </a>
   </div>
@@ -85,11 +69,16 @@ ul.task-list li input[type="checkbox"] {
     </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn"
+      data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" 
+      aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation"
+      onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Unit1.html">Unit 1</a></li><li class="breadcrumb-item"><a href="./Unit1-assignment.html">U1 Assignment</a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      <h1 class="quarto-secondary-nav-title"></h1>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" 
+      aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation"
+      onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
@@ -110,7 +99,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="./index.html" class="sidebar-item-text sidebar-link">
+            <a href="/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Introduction</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
@@ -119,7 +108,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">
+  <a href="/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Introduction</span></a>
   </div>
 </li>
@@ -127,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="./Unit1.html" class="sidebar-item-text sidebar-link">
+            <a href="/Unit1.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Unit 1</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
@@ -136,31 +125,31 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit1-videos.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit1-videos.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U1 Videos</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit1-slides.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit1-slides.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U1 Slides</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit1-readings.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit1-readings.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U1 Readings</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit1-assignment.html" class="sidebar-item-text sidebar-link active">
+  <a href="/Unit1-assignment.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U1 Assignment</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit1-meeting.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit1-meeting.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U1 Meeting</span></a>
   </div>
 </li>
@@ -168,7 +157,7 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="./Unit2.html" class="sidebar-item-text sidebar-link">
+            <a href="/Unit2.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Unit 2</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
@@ -177,31 +166,31 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit2-videos.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit2-videos.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U2 Videos</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit2-slides.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit2-slides.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">U2 Slides</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit2-readings.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit2-readings.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U2 Readings</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit2-assignment.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit2-assignment.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U4 Assignment</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit2-meeting.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit2-meeting.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U2 Meeting</span></a>
   </div>
 </li>
@@ -209,7 +198,7 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="./Unit3.html" class="sidebar-item-text sidebar-link">
+            <a href="/Unit3.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Unit 3</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
@@ -218,31 +207,31 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit3-videos.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit3-videos.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U3 Videos</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit3-slides.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit3-slides.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U3 Slides</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit3-readings.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit3-readings.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U3 Readings</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit3-assignment.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit3-assignment.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U3 Assignment</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit3-meeting.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit3-meeting.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U3 Meeting</span></a>
   </div>
 </li>
@@ -250,7 +239,7 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="./Unit4.html" class="sidebar-item-text sidebar-link">
+            <a href="/Unit4.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Unit 4</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
@@ -259,31 +248,31 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit4-videos.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit4-videos.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U4 Videos</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit4-slides.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit4-slides.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U4 Slides</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit4-readings.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit4-readings.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U4 Readings</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit4-assignment.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit4-assignment.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U4 Assignment</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit4-meeting.html" class="sidebar-item-text sidebar-link">
+  <a href="/Unit4-meeting.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U4 Meeting</span></a>
   </div>
 </li>
@@ -292,17 +281,17 @@ ul.task-list li input[type="checkbox"] {
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" ></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <div id="quarto-toc-target"></div>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">U1 Assignment</h1>
+<h1 class="title">U2 Slides</h1>
 </div>
 
 
@@ -317,17 +306,16 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Please download the assignment for unit 1 and 2 <a href="https://github.com/BERD-NFDI/microsimulation-machine-learning-os/blob/main/Assignments/U1-2_Microsimulation/u1-2_ms_assignment.docx" title="Unit1-2 Assignment">here</a>.</p>
-<p>The assignment for Unit 1 and 2 is a common practice sheet. The first part consists of a small quiz on the theory part taught in Unit 1. The second part of the assignment deals with practical application examples as shown in the teaching videos of Unit 2.</p>
-<p>Please review the entire assignment before the meeting on Thursday, November 02, to discuss any questions that may arise.</p>
-<p>Please work on the assignment after the meeting on Thursday, November 02, so that we can discuss the R exercises in the meeting on Thursday, November 09.</p>
-<p>Complete it by including your answers in the document and sending the completed document by <em>Tuesday, November 14</em> to all of the following three e-mail-addresses:</p>
-<p>hb@hanna-brenzel.de; hariolf.merkle@gmail.com; berd-academy@stat.uni-muenchen.de</p>
-
-
+<p>Please find the slides for Unit 2 here:</p>
+<div id="quarto-navigation-envelope" class="hidden">
+<p><span class="hidden" data-render-id="quarto-int-sidebar-title">Microsimulation &amp; Machine Learning with Official Statistics Data</span> <span class="hidden" data-render-id="quarto-int-navbar-title">Microsimulation &amp; Machine Learning with Official Statistics Data</span> <span class="hidden" data-render-id="quarto-int-next">U2 Readings</span> <span class="hidden" data-render-id="quarto-int-prev">U2 Videos</span> <span class="hidden" data-render-id="quarto-int-sidebar:quarto-sidebar-section-1">Introduction</span> <span class="hidden" data-render-id="quarto-int-sidebar:/index.html">Introduction</span> <span class="hidden" data-render-id="quarto-int-sidebar:quarto-sidebar-section-2">Unit 1</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit1-videos.html">U1 Videos</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit1-slides.html">U1 Slides</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit1-readings.html">U1 Readings</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit1-assignment.html">U1 Assignment</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit1-meeting.html">U1 Meeting</span> <span class="hidden" data-render-id="quarto-int-sidebar:quarto-sidebar-section-3">Unit 2</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit2-videos.html">U2 Videos</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit2-slides.html">U2 Slides</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit2-readings.html">U2 Readings</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit2-assignment.html">U4 Assignment</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit2-meeting.html">U2 Meeting</span> <span class="hidden" data-render-id="quarto-int-sidebar:quarto-sidebar-section-4">Unit 3</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit3-videos.html">U3 Videos</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit3-slides.html">U3 Slides</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit3-readings.html">U3 Readings</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit3-assignment.html">U3 Assignment</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit3-meeting.html">U3 Meeting</span> <span class="hidden" data-render-id="quarto-int-sidebar:quarto-sidebar-section-5">Unit 4</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit4-videos.html">U4 Videos</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit4-slides.html">U4 Slides</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit4-readings.html">U4 Readings</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit4-assignment.html">U4 Assignment</span> <span class="hidden" data-render-id="quarto-int-sidebar:/Unit4-meeting.html">U4 Meeting</span> <span class="hidden" data-render-id="quarto-breadcrumbs-f9442402bf576dc660985dc17eedaa7f">Unit 2</span> <span class="hidden" data-render-id="quarto-breadcrumbs-ec95eeef7c2ef5e8fe6b928196934283">U2 Slides</span></p>
+</div>
+<div id="quarto-meta-markdown" class="hidden">
+<p><span class="hidden" data-render-id="quarto-metatitle">Microsimulation &amp; Machine Learning with Official Statistics Data - U2 Slides</span> <span class="hidden" data-render-id="quarto-twittercardtitle">Microsimulation &amp; Machine Learning with Official Statistics Data - U2 Slides</span> <span class="hidden" data-render-id="quarto-ogcardtitle">Microsimulation &amp; Machine Learning with Official Statistics Data - U2 Slides</span> <span class="hidden" data-render-id="quarto-metasitename">Microsimulation &amp; Machine Learning with Official Statistics Data</span> <span class="hidden" data-render-id="quarto-twittercarddesc"></span> <span class="hidden" data-render-id="quarto-ogcardddesc"></span></p>
+</div>
 
 </main> <!-- /main -->
-<script id="quarto-html-after-body" type="application/javascript">
+<script id = "quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
     const mode = bsSheetEl.getAttribute("data-mode");
@@ -562,18 +550,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./Unit1-readings.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">U1 Readings</span>
+      <a  href="/Unit2-videos.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">U2 Videos</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./Unit1-meeting.html" class="pagination-link">
-        <span class="nav-page-text">U1 Meeting</span> <i class="bi bi-arrow-right-short"></i>
+      <a  href="/Unit2-readings.html" class="pagination-link">
+        <span class="nav-page-text">U2 Readings</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
 </div> <!-- /content -->
 
+</body>
 
-
-</body></html>
+</html>

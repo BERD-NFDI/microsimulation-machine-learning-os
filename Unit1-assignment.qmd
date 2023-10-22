@@ -2,8 +2,6 @@
 
 Please download the assignment for unit 1 and 2 [here](https://github.com/BERD-NFDI/microsimulation-machine-learning-os/blob/main/Assignments/U1-2_Microsimulation/u1-2_ms_assignment.docx "Unit1-2 Assignment").
 
-<a href="https://github.com/BERD-NFDI/microsimulation-machine-learning-os/blob/main/Assignments/U1-2_Microsimulation/u1-2_ms_assignment.docx" target="_blank" />
-
 The assignment for Unit 1 and 2 is a common practice sheet. The first part consists of a small quiz on the theory part taught in Unit 1. The second part of the assignment deals with practical application examples as shown in the teaching videos of Unit 2.
 
 Please review the entire assignment before the meeting on Thursday, November 02, to discuss any questions that may arise.
