@@ -2,4 +2,22 @@
 
 Please make sure to watch the videos of Unit 4 **before** the fourth **online meeting on Thursday, November 30, 2023, 05:00 PM -- 06:00 PM CET**.
 
-*The videos will be uploaded at least one week before the meeting.*
+### 01 Use of Big Data: Google Flu
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rt2MrkEZ5Pk?si=zsQFWYOqL6mFp0I1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### 02 Use of Big Data: Extracting Information 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/\_-b1la7J57Y?si=ngTKgHgGBtjLny1i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### 03 Use of Big Data: Extracting Information 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ouanx6eGSSc?si=FpuepNcFyP6VTk5G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### 04 Big Data Methodology
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1jjb7fMPZZ4?si=6l2X0LwFfAiE76sf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### 05 Big Data, Machine Learning and Official Statistics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9oqf-A0Uj_E?si=pFe0kH3wlYjgrvW9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

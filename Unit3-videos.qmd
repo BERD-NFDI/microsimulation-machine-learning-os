@@ -2,34 +2,34 @@
 
 Please make sure to **watch** the videos of Unit 3 **before the online meeting on November 23, 2023**.
 
-Unit 3-01 introduction
+### 01 Introduction
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OU3X4k99aVk?si=JhumlMGHR07wOt5C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Unit 3-02 diversity
+### 02 Diversity
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wo2uZSHS9Yo?si=-RPlOoPdLNL2D9ap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Unit 3-03 CPI
+### 03 Consumer Price Index (CPI)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xZRFSTixEYM?si=1yvIJssT6tP2ZCPS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Unit 3-04 Web based statistics
+### 04 Web based statistics
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FUYc1qBOANY?si=lJXlJa-Kocd3-Uuv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Unit 3-05-1 Social media based indicators (Corona 1)
+### 05-1 Social media based indicators (Corona 1)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iU4YIrkYsj8?si=A1S6fFm32H49rwkJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Unit 3-05-2 Disease indicators (Corona 2)
+### 05-2 Disease indicators (Corona 2)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-abP22IpQLg?si=RKUBx28o46B5U-SJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Unit 3-06 Mobile Network Operator (MNO) Data
+### 06 Mobile Network Operator (MNO) Data
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Lnz1wF9f8A?si=_bkxgm-KgK0H1qfy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Unit 3-07 Concluding Remarks: Challenges of Big Data for Statistics
+### 07 Concluding Remarks: Challenges of Big Data for Statistics
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s9jSVlv-P0w?si=LTrmS1H6rz1u7sfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
