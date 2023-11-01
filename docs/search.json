@@ -1,108 +1,10 @@
 [
   {
-    "objectID": "Unit1-assignment.html",
-    "href": "Unit1-assignment.html",
-    "title": "U1 Assignment",
-    "section": "",
-    "text": "Please download the assignment for unit 1 and 2 here.\nThe assignment for Unit 1 and 2 is a joint practice sheet. The first part consists of a small quiz on the theory part taught in Unit 1. The second part of the assignment deals with practical application examples as shown in the teaching videos of Unit 2.\nPlease review the entire assignment before the meeting on Thursday, November 02, to discuss any questions that may arise.\nPlease work on the assignment after the meeting on Thursday, November 02, so that we can discuss the R exercises in the meeting on Thursday, November 09.\nComplete it by including your answers in the document and sending the completed document by Tuesday, November 14 to all of the following three e-mail-addresses:\nhb@hanna-brenzel.de; hariolf.merkle@gmail.com; berd-academy@stat.uni-muenchen.de"
-  },
-  {
-    "objectID": "Unit2-readings.html",
-    "href": "Unit2-readings.html",
-    "title": "U2 Readings",
-    "section": "",
-    "text": "Dekkers, G. (2015). The simulation properties of microsimulation models with static and dynamic ageing–a brief guide into choosing one type of model over the other. International Journal of Microsimulation, 8(1), 97-109. Available at: https://microsimulation.pub/articles/00113\nO’Donoghue, C., & Loughrey, J. (2014). Nowcasting in microsimulation models: a methodological survey. Journal of Artificial Societies and Social Simulation, 17(4), 12. Available at: https://www.jasss.org/17/4/12/12.pdf\n\nRecommended (optional):\n\nLovelace, R., Dumont, M., Ellison, R., & Založnik, M. (2017). Spatial microsimulation with R. Chapman and Hall/CRC. Available at: https://spatial-microsim-book.robinlovelace.net/index.html\nTanton, R. (2014). A review of spatial microsimulation methods. International Journal of Microsimulation, 7(1), 4-25. Available at: https://microsimulation.pub/articles/00092"
-  },
-  {
-    "objectID": "Unit2-assignment.html",
-    "href": "Unit2-assignment.html",
-    "title": "U2 Assignment",
-    "section": "",
-    "text": "Please download the assignment for unit 1 and 2 here.\nThe assignment for Unit 1 and 2 is a joint practice sheet. The first part consists of a small quiz on the theory part taught in Unit 1. The second part of the assignment deals with practical application examples as shown in the teaching videos of Unit 2.\nPlease review the entire assignment before the meeting on Thursday, November 02, to discuss any questions that may arise.\nPlease work on the assignment after the meeting on Thursday, November 02, so that we can discuss the R exercises in the meeting on Thursday, November 09.\nComplete it by including your answers in the document and sending the completed document by Tuesday, November 14 to all of the following three e-mail-addresses:\nhb@hanna-brenzel.de; hariolf.merkle@gmail.com; berd-academy@stat.uni-muenchen.de"
-  },
-  {
-    "objectID": "Unit2-meeting.html",
-    "href": "Unit2-meeting.html",
-    "title": "U2 Meeting",
-    "section": "",
-    "text": "⏰ Thursday, November 09, 2023, 05:00 PM – 06:00 PM CET\nPlease find the information on how to join the zoom meeting in the corresponding email"
-  },
-  {
-    "objectID": "Unit3-videos.html",
-    "href": "Unit3-videos.html",
-    "title": "U3 Videos",
-    "section": "",
-    "text": "Please make sure to watch the videos of Unit 3 before the online meeting on November 23, 2023.\n\n01 Introduction\n\n\n\n\n02 Diversity\n\n\n\n\n03 Consumer Price Index (CPI)\n\n\n\n\n04 Web based statistics\n\n\n\n\n05-1 Social media based indicators (Corona 1)\n\n\n\n\n05-2 Disease indicators (Corona 2)\n\n\n\n\n06 Mobile Network Operator (MNO) Data\n\n\n\n\n07 Concluding Remarks: Challenges of Big Data for Statistics"
-  },
-  {
-    "objectID": "Unit3-slides.html",
-    "href": "Unit3-slides.html",
-    "title": "U3 Slides",
-    "section": "",
-    "text": "Please find the slides for Unit 3 here"
-  },
-  {
-    "objectID": "Unit3-readings.html",
-    "href": "Unit3-readings.html",
-    "title": "U3 Readings",
-    "section": "",
-    "text": "Daas, P.J.H., Puts, M.J.H. (2014) Big Data as a Source of Statistical Information. The Survey Statistician 69, 22-31. Available at: http://isi-iass.org/home/wp-content/uploads/N69-2014-01-ISSN.pdf\nGinsberg et al. (2009) Detecting influenza epidemics using search engine query data. Nature 457, 1012-1014. Available at: https://www.nature.com/articles/nature07634.pdf\nLazer et al. (2014) The Parable of Google Flu: Traps in Big Data Analysis. Science 343(6176), 1203-1205. Available at: https://gking.harvard.edu/files/gking/files/0314policyforumff.pdf\n\nRecommended (optional):\n\nDaas et al. (2015) Big Data and Official Statistics. Journal of Official Statistics 31(2), 249-262. Available at: https://content.sciendo.com/downloadpdf/journals/jos/31/2/articlep249.xml\nKitchen, R. (2014) Big Data, new epistemologies and paradigm shifts. Big Data & Society, April-June, 1-12. Available at: https://journals.sagepub.com/doi/pdf/10.1177/2053951714528481"
-  },
-  {
-    "objectID": "Unit3-assignment.html",
-    "href": "Unit3-assignment.html",
-    "title": "U3 Assignment",
-    "section": "",
-    "text": "Please download the assignment for Unit 3+4 here.\nThis Assignment is a joint assignment for Unit 3 AND Unit 4.\nComplete it by including your answers in the code and sending the completed .R-File by Thursday, Dec 7 to all of the following three e-mail-adresses:\npjh.daas@cbs.nl; m.puts@cbs.nl; berd-academy@stat.uni-muenchen.de"
-  },
-  {
-    "objectID": "Unit3-meeting.html",
-    "href": "Unit3-meeting.html",
-    "title": "U3 Meeting",
-    "section": "",
-    "text": "⏰ November 23, 2023, 05:00 PM – 06:00 PM CET\nPlease find the information on how to join the zoom meeting in the corresponding e-mail."
-  },
-  {
-    "objectID": "Unit4-videos.html",
-    "href": "Unit4-videos.html",
-    "title": "U4 Videos",
-    "section": "",
-    "text": "Please make sure to watch the videos of Unit 4 before the fourth online meeting on Thursday, November 30, 2023, 05:00 PM – 06:00 PM CET.\n\n01 Use of Big Data: Google Flu\n\n\n\n\n02 Use of Big Data: Extracting Information 1\n\n\n\n\n03 Use of Big Data: Extracting Information 2\n\n\n\n\n04 Big Data Methodology\n\n\n\n\n05 Big Data, Machine Learning and Official Statistics"
-  },
-  {
-    "objectID": "Unit4-slides.html",
-    "href": "Unit4-slides.html",
-    "title": "U4 Slides",
-    "section": "",
-    "text": "Please find the slides for Unit 4 here"
-  },
-  {
-    "objectID": "Unit4-readings.html",
-    "href": "Unit4-readings.html",
-    "title": "U4 Readings",
-    "section": "",
-    "text": "Puts, M.J.H., Daas, P.J.H. (2021) Machine Learning from the Perspective of Official Statistics. The Survey Statistician 84. pp. 12-17. Available at: http://isi-iass.org/home/wp-content/uploads/Survey_Statistician_2021_July_N84_02.pdf\n\nRecommended (optional):\n\nPuts et al. (2015) Finding Errors in Big Data. Significance 12 (3), 26-29. Available at: https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2015.00826.x"
-  },
-  {
-    "objectID": "Unit4-assignment.html",
-    "href": "Unit4-assignment.html",
-    "title": "U4 Assignment",
-    "section": "",
-    "text": "Please download the assignment for Unit 3+4 here.\nThis Assignment is a joint assignment for Unit 3 AND Unit 4.\nComplete it by including your answers in the code and sending the completed .R-File by Thursday, Dec 7 to all of the following three e-mail-adresses:\npjh.daas@cbs.nl; m.puts@cbs.nl; berd-academy@stat.uni-muenchen.de"
-  },
-  {
-    "objectID": "Unit4-meeting.html",
-    "href": "Unit4-meeting.html",
-    "title": "U4 Meeting",
-    "section": "",
-    "text": "⏰ Thursday, November 30, 2023, 05:00 PM – 06:00 PM CET\nPlease find the information on how to join the zoom meeting in the corresponding e-mail."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Microsimulation & Machine Learning with Official Statistics Data",
     "section": "",
-    "text": "Introduction\nWelcome to the course “Microsimulation & Machine Learning with Official Statistics Data”!"
+    "text": "Instructors: Hanna Brenzel, Hariolf Merkle, Marco Puts, and Piet Daas"
   },
   {
     "objectID": "index.html#course-format",
@@ -123,7 +25,14 @@
     "href": "Unit1.html",
     "title": "Unit 1",
     "section": "",
-    "text": "In this unit, you will get introduced to Microsimulation.\nPlease:\n📺 watch the weekly videos (~60 min),\n📖 review the assigned readings,\n❓ work on the (R) assignments,\n👩‍🏫 discuss the material in the weekly online meeting with the instructors from destatis and Statistics Netherlands, and fellow course participants (~60 min)."
+    "text": "Please:\n📺 watch the weekly videos (~60 min),\n📖 review the assigned readings,\n❓ work on the (R) assignments,\n👩‍🏫 discuss the material in the weekly online meeting with the instructors from destatis and Statistics Netherlands, and fellow course participants (~60 min)."
+  },
+  {
+    "objectID": "Unit1-videos.html",
+    "href": "Unit1-videos.html",
+    "title": "U1 Videos",
+    "section": "",
+    "text": "1 Introduction to Microsimulation in Offical Statistics\n\n\n\n\n2 History of Microsimulation\n\n\n\n\n3 Development of Microsimulation in Germany\n\n\n\n\n4 Static and dynamic microsimulations\n\n\n\n\n5 Microsimulation as a policy tool"
   },
   {
     "objectID": "Unit1-slides.html",
@@ -133,53 +42,39 @@
     "text": "Please find the slides for Unit 1 here"
   },
   {
-    "objectID": "Unit1-videos.html",
-    "href": "Unit1-videos.html",
-    "title": "U1 Videos",
+    "objectID": "Unit1-readings.html",
+    "href": "Unit1-readings.html",
+    "title": "U1 Readings",
     "section": "",
-    "text": "Please make sure to watch the videos of Unit 1 before the online meeting on November 2, 2023.\n\n1 Introduction to Microsimulation in Offical Statistics\n\n\n\n\n2 History of Microsimulation\n\n\n\n\n3 Development of Microsimulation in Germany\n\n\n\n\n4 Static and dynamic microsimulations\n\n\n\n\n5 Microsimulation as a policy tool"
+    "text": "Recommended (optional):\n\nLi and O’Donoghue (2013) A survey of dynamic microsimulation models: uses, model structure and methodology. International Journal of Microsimulation 6(2), pp. 3-55. Available at: https://www.microsimulation.org/IJM/V6_2/2_IJM_6\\_2_2013_Li_Odonoghue.pdf\nRahman and Harding (2017) Small area estimation and microsimulation modelling. Chapman and Hall/CRC, London, UK, Chapter 4.\nMerz (1991) Microsimulation - a survey of principles, developments and applications. International Journal of Forecasting, 7(1), pp. 77-104. Available at: https://mpra.ub.uni-muenchen.de/7232/"
+  },
+  {
+    "objectID": "Unit1-assignment.html",
+    "href": "Unit1-assignment.html",
+    "title": "U1 Assignment",
+    "section": "",
+    "text": "The assignment for Unit 1 and 2 is a joint practice sheet. The first part consists of a small quiz on the theory part taught in Unit 1. The second part of the assignment deals with practical application examples as shown in the teaching videos of Unit 2.\nPlease review the entire assignment before the meeting on Thursday, November 02, to discuss any questions that may arise.\nPlease work on the assignment after the meeting on Thursday, November 02, so that we can discuss the R exercises in the meeting on Thursday, November 09.\nComplete it by including your answers in the document and sending the completed document by Tuesday, November 14 to all of the following three e-mail-addresses:\nhb@hanna-brenzel.de; hariolf.merkle@gmail.com; berd-academy@stat.uni-muenchen.de"
   },
   {
     "objectID": "Unit1-meeting.html",
     "href": "Unit1-meeting.html",
     "title": "U1 Meeting",
     "section": "",
-    "text": "⏰ Thursday, November 02, 2023, 5:00 PM - 06:00 PM CET\nPlease find the information on how to join the zoom meeting in the corresponding e-mail."
-  },
-  {
-    "objectID": "Unit1-readings.html",
-    "href": "Unit1-readings.html",
-    "title": "U1 Readings",
-    "section": "",
-    "text": "Orcutt (2007) A new type of socio-economic system. International Journal of Microsimulation (Reprinted), 1(1), pp. 3-9. Available at: https://www.microsimulation.org/IJM/V1_1/IJM_1\\_1_2.pdf\n\nRecommended (optional):\n\nLi and O’Donoghue (2013) A survey of dynamic microsimulation models: uses, model structure and methodology. International Journal of Microsimulation 6(2), pp. 3-55. Available at: https://www.microsimulation.org/IJM/V6_2/2_IJM_6\\_2_2013_Li_Odonoghue.pdf\nRahman and Harding (2017) Small area estimation and microsimulation modelling. Chapman and Hall/CRC, London, UK, Chapter 4.\nMerz (1991) Microsimulation - a survey of principles, developments and applications. International Journal of Forecasting, 7(1), pp. 77-104. Available at: https://mpra.ub.uni-muenchen.de/7232/"
+    "text": "Please find the information on how to join the zoom meeting in the corresponding e-mail."
   },
   {
     "objectID": "Unit2.html",
     "href": "Unit2.html",
     "title": "Unit 2",
     "section": "",
-    "text": "In this unit, you will apply Microsimulation using R.\nPlease:\n📺 watch the weekly videos (~60 min),\n📖 review the assigned readings,\n❓ work on the (R) assignments,\n👩‍🏫 discuss the material in the weekly online meeting with the instructors from destatis and Statistics Netherlands, and fellow course participants (~60 min)."
+    "text": "Please:\n📺 watch the weekly videos (~60 min),\n📖 review the assigned readings,\n❓ work on the (R) assignments,\n👩‍🏫 discuss the material in the weekly online meeting with the instructors from destatis and Statistics Netherlands, and fellow course participants (~60 min)."
   },
   {
     "objectID": "Unit2-videos.html",
     "href": "Unit2-videos.html",
     "title": "U2 Videos",
     "section": "",
-    "text": "Please make sure to watch the videos of Unit 2 before the online meeting on November 9, 2023.\n\n1 Hands-on microsimulation techniques: Introduction\n\n\n\n\n2 Hands-on microsimulation techniques: Overview\n\n\n\n\n3 Static Ageing Techniques in a Nutshell\n\n\n\n\n4 Dynamic Ageing in a nutshell\n\n\n\n\n5 Microsimulation in R (Excercise 1, Static Ageing)\n\n\n\n\n6 Microsimulation in R (Excercise 2, Static Ageing)\n\n\n\n\n7 Microsimulation in R (Excercise 3, Static Ageing)\n\n\n\n\n8 Microsimulation in R (Excercise 4, Dynamic Microsimulation)\n\n\n\n\n9 MikroSim revisted"
-  },
-  {
-    "objectID": "Unit3.html",
-    "href": "Unit3.html",
-    "title": "Unit 3",
-    "section": "",
-    "text": "In this unit, you will be introduced to Big Data.\nPlease:\n📺 watch the weekly videos (~60 min),\n📖 review the assigned readings,\n❓ work on the (R) assignments,\n👩‍🏫 discuss the material in the weekly online meeting with the instructors from destatis and Statistics Netherlands, and fellow course participants (~60 min)."
-  },
-  {
-    "objectID": "Unit4.html",
-    "href": "Unit4.html",
-    "title": "Unit 4",
-    "section": "",
-    "text": "In this unit, you will get to know use cases of Big Data.\nPlease:\n📺 watch the weekly videos (~60 min),\n📖 review the assigned readings,\n❓ work on the (R) assignments,\n👩‍🏫 discuss the material in the weekly online meeting with the instructors from destatis and Statistics Netherlands, and fellow course participants (~60 min)."
+    "text": "1 Hands-on microsimulation techniques: Introduction\n\n\n\n\n2 Hands-on microsimulation techniques: Overview\n\n\n\n\n3 Static Ageing Techniques in a Nutshell\n\n\n\n\n4 Dynamic Ageing in a nutshell\n\n\n\n\n5 Microsimulation in R (Excercise 1, Static Ageing)\n\n\n\n\n6 Microsimulation in R (Excercise 2, Static Ageing)\n\n\n\n\n7 Microsimulation in R (Excercise 3, Static Ageing)\n\n\n\n\n8 Microsimulation in R (Excercise 4, Dynamic Microsimulation)\n\n\n\n\n9 MikroSim revisted"
   },
   {
     "objectID": "Unit2-slides.html",
@@ -187,5 +82,110 @@
     "title": "U2 Slides",
     "section": "",
     "text": "Please find the slides for Unit 2 here"
+  },
+  {
+    "objectID": "Unit2-readings.html",
+    "href": "Unit2-readings.html",
+    "title": "U2 Readings",
+    "section": "",
+    "text": "Recommended (optional):\n\nLovelace, R., Dumont, M., Ellison, R., & Založnik, M. (2017). Spatial microsimulation with R. Chapman and Hall/CRC. Available at: https://spatial-microsim-book.robinlovelace.net/index.html\nTanton, R. (2014). A review of spatial microsimulation methods. International Journal of Microsimulation, 7(1), 4-25. Available at: https://microsimulation.pub/articles/00092"
+  },
+  {
+    "objectID": "Unit2-assignment.html",
+    "href": "Unit2-assignment.html",
+    "title": "U2 Assignment",
+    "section": "",
+    "text": "The assignment for Unit 1 and 2 is a joint practice sheet. The first part consists of a small quiz on the theory part taught in Unit 1. The second part of the assignment deals with practical application examples as shown in the teaching videos of Unit 2.\nPlease review the entire assignment before the meeting on Thursday, November 02, to discuss any questions that may arise.\nPlease work on the assignment after the meeting on Thursday, November 02, so that we can discuss the R exercises in the meeting on Thursday, November 09.\nComplete it by including your answers in the document and sending the completed document by Tuesday, November 14 to all of the following three e-mail-addresses:\nhb@hanna-brenzel.de; hariolf.merkle@gmail.com; berd-academy@stat.uni-muenchen.de"
+  },
+  {
+    "objectID": "Unit2-meeting.html",
+    "href": "Unit2-meeting.html",
+    "title": "U2 Meeting",
+    "section": "",
+    "text": "Please find the information on how to join the zoom meeting in the corresponding email"
+  },
+  {
+    "objectID": "Unit3.html",
+    "href": "Unit3.html",
+    "title": "Unit 3",
+    "section": "",
+    "text": "Please:\n📺 watch the weekly videos (~60 min),\n📖 review the assigned readings,\n❓ work on the (R) assignments,\n👩‍🏫 discuss the material in the weekly online meeting with the instructors from destatis and Statistics Netherlands, and fellow course participants (~60 min)."
+  },
+  {
+    "objectID": "Unit3-videos.html",
+    "href": "Unit3-videos.html",
+    "title": "U3 Videos",
+    "section": "",
+    "text": "01 Introduction\n\n\n\n\n02 Diversity\n\n\n\n\n03 Consumer Price Index (CPI)\n\n\n\n\n04 Web based statistics\n\n\n\n\n05-1 Social media based indicators (Corona 1)\n\n\n\n\n05-2 Disease indicators (Corona 2)\n\n\n\n\n06 Mobile Network Operator (MNO) Data\n\n\n\n\n07 Concluding Remarks: Challenges of Big Data for Statistics"
+  },
+  {
+    "objectID": "Unit3-slides.html",
+    "href": "Unit3-slides.html",
+    "title": "U3 Slides",
+    "section": "",
+    "text": "Please find the slides for Unit 3 here"
+  },
+  {
+    "objectID": "Unit3-readings.html",
+    "href": "Unit3-readings.html",
+    "title": "U3 Readings",
+    "section": "",
+    "text": "Recommended (optional):\n\nDaas et al. (2015) Big Data and Official Statistics. Journal of Official Statistics 31(2), 249-262. Available at: https://content.sciendo.com/downloadpdf/journals/jos/31/2/articlep249.xml\nKitchen, R. (2014) Big Data, new epistemologies and paradigm shifts. Big Data & Society, April-June, 1-12. Available at: https://journals.sagepub.com/doi/pdf/10.1177/2053951714528481"
+  },
+  {
+    "objectID": "Unit3-assignment.html",
+    "href": "Unit3-assignment.html",
+    "title": "U3 Assignment",
+    "section": "",
+    "text": "This Assignment is a joint assignment for Unit 3 AND Unit 4.\nComplete it by including your answers in the code and sending the completed .R-File by Thursday, Dec 7 to all of the following three e-mail-adresses:\npjh.daas@cbs.nl; m.puts@cbs.nl; berd-academy@stat.uni-muenchen.de"
+  },
+  {
+    "objectID": "Unit3-meeting.html",
+    "href": "Unit3-meeting.html",
+    "title": "U3 Meeting",
+    "section": "",
+    "text": "Please find the information on how to join the zoom meeting in the corresponding e-mail."
+  },
+  {
+    "objectID": "Unit4.html",
+    "href": "Unit4.html",
+    "title": "Unit 4",
+    "section": "",
+    "text": "Please:\n📺 watch the weekly videos (~60 min),\n📖 review the assigned readings,\n❓ work on the (R) assignments,\n👩‍🏫 discuss the material in the weekly online meeting with the instructors from destatis and Statistics Netherlands, and fellow course participants (~60 min)."
+  },
+  {
+    "objectID": "Unit4-videos.html",
+    "href": "Unit4-videos.html",
+    "title": "U4 Videos",
+    "section": "",
+    "text": "01 Use of Big Data: Google Flu\n\n\n\n\n02 Use of Big Data: Extracting Information 1\n\n\n\n\n03 Use of Big Data: Extracting Information 2\n\n\n\n\n04 Big Data Methodology\n\n\n\n\n05 Big Data, Machine Learning and Official Statistics"
+  },
+  {
+    "objectID": "Unit4-slides.html",
+    "href": "Unit4-slides.html",
+    "title": "U4 Slides",
+    "section": "",
+    "text": "Please find the slides for Unit 4 here"
+  },
+  {
+    "objectID": "Unit4-readings.html",
+    "href": "Unit4-readings.html",
+    "title": "U4 Readings",
+    "section": "",
+    "text": "Recommended (optional):\n\nPuts et al. (2015) Finding Errors in Big Data. Significance 12 (3), 26-29. Available at: https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2015.00826.x"
+  },
+  {
+    "objectID": "Unit4-assignment.html",
+    "href": "Unit4-assignment.html",
+    "title": "U4 Assignment",
+    "section": "",
+    "text": "This Assignment is a joint assignment for Unit 3 AND Unit 4.\nComplete it by including your answers in the code and sending the completed .R-File by Thursday, Dec 7 to all of the following three e-mail-adresses:\npjh.daas@cbs.nl; m.puts@cbs.nl; berd-academy@stat.uni-muenchen.de"
+  },
+  {
+    "objectID": "Unit4-meeting.html",
+    "href": "Unit4-meeting.html",
+    "title": "U4 Meeting",
+    "section": "",
+    "text": "Please find the information on how to join the zoom meeting in the corresponding e-mail."
   }
 ]

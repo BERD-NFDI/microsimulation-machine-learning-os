@@ -40,6 +40,11 @@ book:
   navbar: 
     background: white
     logo: images/Logo_BERD_Academy(1).png
+  
+  page-footer: 
+    center: 
+      - text: "Impressum"
+        href: impressum.qmd
 #    logo: images/Logo_BERD_Academy.png
     
 # we can add this 
