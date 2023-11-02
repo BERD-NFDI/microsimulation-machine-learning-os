@@ -4,7 +4,7 @@ Instructors: Hanna Brenzel, Hariolf Merkle, Marco Puts, and Piet Daas
 
 # Introduction {.unnumbered}
 
-Welcome to the course "Microsimulation & Machine Learning with Official Statistics Data"!
+Welcome to the course "Microsimulation & Machine Learning with Official Statistics Data"! Here you can find the material for the [BERD Academy flipped classroom course](https://www.berd-nfdi.de/berd-academy/how-to-make-use-of-machine-learning-microsimulation-in-official-statistics/). BERD Academy is part of BERD\@NFDI; funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) -- 460037581
 
 ## Course format
 
