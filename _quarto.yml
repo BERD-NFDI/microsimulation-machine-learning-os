@@ -35,19 +35,16 @@ book:
     - Unit4-readings.qmd
     - Unit4-assignment.qmd
     - Unit4-meeting.qmd
+  - part: impressum.qmd
+    chapters: 
+    - impressum.qmd
   
   
   navbar: 
     background: white
     logo: images/Logo_BERD_Academy(1).png
   
-  page-footer: 
-    center: 
-      - text: "Impressum"
-        href: impressum.qmd
-      - text: "Booklet source"
-        href: https://www.berd-nfdi.de/berd-academy/how-to-make-use-of-machine-learning-microsimulation-in-official-statistics/
-#    logo: images/Logo_BERD_Academy.png
+
     
 # we can add this 
 #  page-footer:
